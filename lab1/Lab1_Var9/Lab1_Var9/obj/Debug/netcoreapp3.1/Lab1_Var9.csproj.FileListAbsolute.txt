@@ -1,0 +1,15 @@
+C:\Users\Pavuk\source\repos\Lab1_Var9\Lab1_Var9\bin\Debug\netcoreapp3.1\Lab1_Var9.exe
+C:\Users\Pavuk\source\repos\Lab1_Var9\Lab1_Var9\bin\Debug\netcoreapp3.1\Lab1_Var9.deps.json
+C:\Users\Pavuk\source\repos\Lab1_Var9\Lab1_Var9\bin\Debug\netcoreapp3.1\Lab1_Var9.runtimeconfig.json
+C:\Users\Pavuk\source\repos\Lab1_Var9\Lab1_Var9\bin\Debug\netcoreapp3.1\Lab1_Var9.runtimeconfig.dev.json
+C:\Users\Pavuk\source\repos\Lab1_Var9\Lab1_Var9\bin\Debug\netcoreapp3.1\Lab1_Var9.dll
+C:\Users\Pavuk\source\repos\Lab1_Var9\Lab1_Var9\bin\Debug\netcoreapp3.1\Lab1_Var9.pdb
+C:\Users\Pavuk\source\repos\Lab1_Var9\Lab1_Var9\obj\Debug\netcoreapp3.1\Lab1_Var9.csprojAssemblyReference.cache
+C:\Users\Pavuk\source\repos\Lab1_Var9\Lab1_Var9\obj\Debug\netcoreapp3.1\Lab1_Var9.Form1.resources
+C:\Users\Pavuk\source\repos\Lab1_Var9\Lab1_Var9\obj\Debug\netcoreapp3.1\Lab1_Var9.csproj.GenerateResource.cache
+C:\Users\Pavuk\source\repos\Lab1_Var9\Lab1_Var9\obj\Debug\netcoreapp3.1\Lab1_Var9.AssemblyInfoInputs.cache
+C:\Users\Pavuk\source\repos\Lab1_Var9\Lab1_Var9\obj\Debug\netcoreapp3.1\Lab1_Var9.AssemblyInfo.cs
+C:\Users\Pavuk\source\repos\Lab1_Var9\Lab1_Var9\obj\Debug\netcoreapp3.1\Lab1_Var9.csproj.CoreCompileInputs.cache
+C:\Users\Pavuk\source\repos\Lab1_Var9\Lab1_Var9\obj\Debug\netcoreapp3.1\Lab1_Var9.dll
+C:\Users\Pavuk\source\repos\Lab1_Var9\Lab1_Var9\obj\Debug\netcoreapp3.1\Lab1_Var9.pdb
+C:\Users\Pavuk\source\repos\Lab1_Var9\Lab1_Var9\obj\Debug\netcoreapp3.1\Lab1_Var9.genruntimeconfig.cache
