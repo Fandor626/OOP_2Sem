@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\lab2_2\lab2_2\obj\Debug\netcoreapp3.1\lab2_2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\lab2_2\lab2_2\obj\Debug\netcoreapp3.1\lab2_2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\lab2_2\lab2_2\obj\Debug\netcoreapp3.1\lab2_2.AssemblyInfo.cs
+C:\Users\User\source\repos\lab2_2\lab2_2\obj\Debug\netcoreapp3.1\lab2_2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lab2_2\lab2_2\bin\Debug\netcoreapp3.1\lab2_2.exe
+C:\Users\User\source\repos\lab2_2\lab2_2\bin\Debug\netcoreapp3.1\lab2_2.deps.json
+C:\Users\User\source\repos\lab2_2\lab2_2\bin\Debug\netcoreapp3.1\lab2_2.runtimeconfig.json
+C:\Users\User\source\repos\lab2_2\lab2_2\bin\Debug\netcoreapp3.1\lab2_2.runtimeconfig.dev.json
+C:\Users\User\source\repos\lab2_2\lab2_2\bin\Debug\netcoreapp3.1\lab2_2.dll
+C:\Users\User\source\repos\lab2_2\lab2_2\bin\Debug\netcoreapp3.1\lab2_2.pdb
+C:\Users\User\source\repos\lab2_2\lab2_2\obj\Debug\netcoreapp3.1\lab2_2.dll
+C:\Users\User\source\repos\lab2_2\lab2_2\obj\Debug\netcoreapp3.1\lab2_2.pdb
+C:\Users\User\source\repos\lab2_2\lab2_2\obj\Debug\netcoreapp3.1\lab2_2.genruntimeconfig.cache
