@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\lab2_1exe\lab2_1exe\bin\Debug\netcoreapp3.1\lab2_1exe.exe
+C:\Users\User\source\repos\lab2_1exe\lab2_1exe\bin\Debug\netcoreapp3.1\lab2_1exe.deps.json
+C:\Users\User\source\repos\lab2_1exe\lab2_1exe\bin\Debug\netcoreapp3.1\lab2_1exe.runtimeconfig.json
+C:\Users\User\source\repos\lab2_1exe\lab2_1exe\bin\Debug\netcoreapp3.1\lab2_1exe.runtimeconfig.dev.json
+C:\Users\User\source\repos\lab2_1exe\lab2_1exe\bin\Debug\netcoreapp3.1\lab2_1exe.dll
+C:\Users\User\source\repos\lab2_1exe\lab2_1exe\bin\Debug\netcoreapp3.1\lab2_1exe.pdb
+C:\Users\User\source\repos\lab2_1exe\lab2_1exe\obj\Debug\netcoreapp3.1\lab2_1exe.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\lab2_1exe\lab2_1exe\obj\Debug\netcoreapp3.1\lab2_1exe.AssemblyInfo.cs
+C:\Users\User\source\repos\lab2_1exe\lab2_1exe\obj\Debug\netcoreapp3.1\lab2_1exe.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lab2_1exe\lab2_1exe\obj\Debug\netcoreapp3.1\lab2_1exe.dll
+C:\Users\User\source\repos\lab2_1exe\lab2_1exe\obj\Debug\netcoreapp3.1\lab2_1exe.pdb
+C:\Users\User\source\repos\lab2_1exe\lab2_1exe\obj\Debug\netcoreapp3.1\lab2_1exe.genruntimeconfig.cache

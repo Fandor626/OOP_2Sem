@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\lab22_2exe\lab22_2exe\bin\Debug\netcoreapp3.1\lab22_2exe.exe
+C:\Users\User\source\repos\lab22_2exe\lab22_2exe\bin\Debug\netcoreapp3.1\lab22_2exe.deps.json
+C:\Users\User\source\repos\lab22_2exe\lab22_2exe\bin\Debug\netcoreapp3.1\lab22_2exe.runtimeconfig.json
+C:\Users\User\source\repos\lab22_2exe\lab22_2exe\bin\Debug\netcoreapp3.1\lab22_2exe.runtimeconfig.dev.json
+C:\Users\User\source\repos\lab22_2exe\lab22_2exe\bin\Debug\netcoreapp3.1\lab22_2exe.dll
+C:\Users\User\source\repos\lab22_2exe\lab22_2exe\bin\Debug\netcoreapp3.1\lab22_2exe.pdb
+C:\Users\User\source\repos\lab22_2exe\lab22_2exe\obj\Debug\netcoreapp3.1\lab22_2exe.csprojAssemblyReference.cache
+C:\Users\User\source\repos\lab22_2exe\lab22_2exe\obj\Debug\netcoreapp3.1\lab22_2exe.Form1.resources
+C:\Users\User\source\repos\lab22_2exe\lab22_2exe\obj\Debug\netcoreapp3.1\lab22_2exe.csproj.GenerateResource.cache
+C:\Users\User\source\repos\lab22_2exe\lab22_2exe\obj\Debug\netcoreapp3.1\lab22_2exe.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\lab22_2exe\lab22_2exe\obj\Debug\netcoreapp3.1\lab22_2exe.AssemblyInfo.cs
+C:\Users\User\source\repos\lab22_2exe\lab22_2exe\obj\Debug\netcoreapp3.1\lab22_2exe.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lab22_2exe\lab22_2exe\obj\Debug\netcoreapp3.1\lab22_2exe.dll
+C:\Users\User\source\repos\lab22_2exe\lab22_2exe\obj\Debug\netcoreapp3.1\lab22_2exe.pdb
+C:\Users\User\source\repos\lab22_2exe\lab22_2exe\obj\Debug\netcoreapp3.1\lab22_2exe.genruntimeconfig.cache
