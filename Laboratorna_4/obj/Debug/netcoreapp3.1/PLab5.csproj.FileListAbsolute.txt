@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\PLab5-master\bin\Debug\netcoreapp3.1\PLab5.exe
+C:\Users\User\Desktop\PLab5-master\bin\Debug\netcoreapp3.1\PLab5.deps.json
+C:\Users\User\Desktop\PLab5-master\bin\Debug\netcoreapp3.1\PLab5.runtimeconfig.json
+C:\Users\User\Desktop\PLab5-master\bin\Debug\netcoreapp3.1\PLab5.runtimeconfig.dev.json
+C:\Users\User\Desktop\PLab5-master\bin\Debug\netcoreapp3.1\PLab5.dll
+C:\Users\User\Desktop\PLab5-master\bin\Debug\netcoreapp3.1\PLab5.pdb
+C:\Users\User\Desktop\PLab5-master\obj\Debug\netcoreapp3.1\PLab5.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PLab5-master\obj\Debug\netcoreapp3.1\PLab5.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PLab5-master\obj\Debug\netcoreapp3.1\PLab5.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PLab5-master\obj\Debug\netcoreapp3.1\PLab5.AssemblyInfo.cs
+C:\Users\User\Desktop\PLab5-master\obj\Debug\netcoreapp3.1\PLab5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PLab5-master\obj\Debug\netcoreapp3.1\PLab5.dll
+C:\Users\User\Desktop\PLab5-master\obj\Debug\netcoreapp3.1\PLab5.pdb
+C:\Users\User\Desktop\PLab5-master\obj\Debug\netcoreapp3.1\PLab5.genruntimeconfig.cache
+C:\Users\User\Desktop\PLab5-master\obj\Debug\netcoreapp3.1\Laboratorna4.Form1.resources
