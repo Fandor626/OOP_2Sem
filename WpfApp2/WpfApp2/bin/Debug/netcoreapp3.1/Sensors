@@ -1,0 +1,7 @@
+﻿<Sensors>
+  <Sensor>
+    <Type>Type</Type>
+    <Range>2</Range>
+    <CurentValue>3</CurentValue>
+  </Sensor>
+</Sensors>

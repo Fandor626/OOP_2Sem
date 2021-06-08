@@ -1,0 +1,21 @@
+﻿<Window x:Class="Lab_4_Wpf.DeviceWPF"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab_4_Wpf"
+        mc:Ignorable="d"
+        Title="DeviceWPF" Height="450" Width="254">
+    <Grid>
+        <Button x:Name="Change" Content="Change" HorizontalAlignment="Left" Margin="177,21,0,0" VerticalAlignment="Top" Height="29" Width="53" Click="Change_Click"/>
+        <Button x:Name="Create" Content="Create" HorizontalAlignment="Left" Margin="177,65,0,0" VerticalAlignment="Top" Height="29" Width="53" Click="Create_Click"/>
+        <ComboBox x:Name="SensorCombobox" HorizontalAlignment="Left" Margin="20,35,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="DeviceCombobox" HorizontalAlignment="Left" Margin="20,69,0,0" VerticalAlignment="Top" Width="120"/>
+        <DatePicker HorizontalAlignment="Center" Margin="0,116,0,0" VerticalAlignment="Top" Width="234"/>
+        <Button x:Name="Cancel" Content="Cancel" HorizontalAlignment="Center" Margin="0,376,0,0" VerticalAlignment="Top" Height="36" Width="114" Click="Cancel_Click"/>
+        <Button x:Name="Save" Content="Save" HorizontalAlignment="Center" Margin="0,335,0,0" VerticalAlignment="Top" Height="36" Width="114" Click="Save_Click"/>
+        <TextBox x:Name="TextBox" HorizontalAlignment="Left" Margin="63,157,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="181" Height="30"/>
+        <Label x:Name="num" Content="Numb" HorizontalAlignment="Left" Margin="10,159,0,0" VerticalAlignment="Top" Height="28" Width="48"/>
+
+    </Grid>
+</Window>
